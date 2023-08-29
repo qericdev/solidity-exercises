@@ -8,7 +8,7 @@ This repo contains ordered Solidity smart contract exercises aimed at teaching b
 
     - Write a simple Solidity smart contract that stores a number and has functions to get and set the number.
 
-    - Contract code: [SimpleSmartContract.sol](SimpleSmartContract.sol)
+    - Contract code: [SimpleSmartContract.sol](SimpleSmartContract/SimpleSmartContract.sol)
 
     - Details: This contract contains a private `uint` variable to store a number. A constructor sets the initial value. Getter and setter functions allow reading and writing the value. The getter is declared as a `view` function.
 
